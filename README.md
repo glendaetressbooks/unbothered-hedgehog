@@ -1,2 +1,5 @@
-# unbothered-hedgehog
-Official landing page for The Introverted Hedgehog Journey by Glenda E. Tress
+# Unbothered Animals: The Introverted Hedgehog Journey
+
+Official book landing page for Glenda E. Tress.
+
+The site includes a book preview, Amazon purchase links, and a MailerLite signup form for the free Cozy Coloring Sampler.
